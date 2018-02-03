@@ -25,7 +25,7 @@ namespace BearBotKumaDSharpPlus
 
         private static DiscordClient _client;
         private static CommandsNextModule commandHandler;
-        private static string botToken = "MzUyNzIxNTkzNDg4NjM3OTUy.DJE4rA.Imdq9z - OTL3wyaVwKx73jhnVjXo";
+        private static string botToken = "botAuthTokenGoesHere";
         private static InteractivityModule interactions;
         private static VoiceNextClient vClient;
         private static StreamReader fileReader = null;
